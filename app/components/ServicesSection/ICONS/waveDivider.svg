@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="185px" viewBox="0 0 250 185" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.7%" y="-18.5%" width="105.5%" height="137.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.7%" y="-18.5%" width="105.5%" height="137.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.7%" y="-18.5%" width="105.5%" height="137.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group" transform="translate(5.000000, 5.000000)" stroke="#E7DDD2" stroke-width="7">
+            <path d="M0.860792654,33.5438693 C12.2869309,32.5146231 24.8333333,26.8333333 38.5,16.5 C52.1666667,6.16666667 65.1666667,0.833333333 77.5,0.5 C82.6914012,0.960502641 86.1914012,1.46050264 88,2 C94.4147776,3.91350095 98.2327691,6.8917256 102,9 C107.292666,11.9619613 112.207334,15.5673923 117.5,20 C130.833333,31.1666667 145.666667,36.3333333 162,35.5 C168.666667,36.5 179.666667,30.9166667 195,18.75 C210.333333,6.58333333 224.666667,1.5 238,3.5" id="Path-2" filter="url(#filter-1)"></path>
+            <path d="M2,103.043869 C13.4261382,102.014623 25.9725407,96.3333333 39.6392073,86 C53.305874,75.6666667 66.305874,70.3333333 78.6392073,70 C83.8306085,70.4605026 87.3306085,70.9605026 89.1392073,71.5 C95.5539849,73.413501 99.3719765,76.3917256 103.139207,78.5 C108.431873,81.4619613 113.346541,85.0673923 118.639207,89.5 C131.972541,100.666667 146.805874,105.833333 163.139207,105 C169.805874,106 180.805874,100.416667 196.139207,88.25 C211.472541,76.0833333 225.805874,71 239.139207,73" id="Path-2" filter="url(#filter-2)"></path>
+            <path d="M2,172.543869 C13.4261382,171.514623 25.9725407,165.833333 39.6392073,155.5 C53.305874,145.166667 66.305874,139.833333 78.6392073,139.5 C83.8306085,139.960503 87.3306085,140.460503 89.1392073,141 C95.5539849,142.913501 99.3719765,145.891726 103.139207,148 C108.431873,150.961961 113.346541,154.567392 118.639207,159 C131.972541,170.166667 146.805874,175.333333 163.139207,174.5 C169.805874,175.5 180.805874,169.916667 196.139207,157.75 C211.472541,145.583333 225.805874,140.5 239.139207,142.5" id="Path-2" filter="url(#filter-3)"></path>
+        </g>
+    </g>
+</svg>

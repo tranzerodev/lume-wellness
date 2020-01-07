@@ -1,0 +1,22 @@
+/*
+ *
+ * PricingPage constants
+ *
+ */
+
+const prefix = 'pricing/';
+
+// promotional packs
+export const LOAD_PROMOTIONAL_PACKS_REQUEST = `${prefix}LOAD_PROMOTIONAL_PACKS_REQUEST`;
+export const LOAD_PROMOTIONAL_PACKS_SUCCESS = `${prefix}LOAD_PROMOTIONAL_PACKS_SUCCESS`;
+export const LOAD_PROMOTIONAL_PACKS_FAIL = `${prefix}LOAD_PROMOTIONAL_PACKS_FAIL`;
+
+// services pricing
+export const LOAD_SERVICES_PRICING_REQUEST = `${prefix}LOAD_SERVICES_PRICING_REQUEST`;
+export const LOAD_SERVICES_PRICING_SUCCESS = `${prefix}LOAD_SERVICES_PRICING_SUCCESS`;
+export const LOAD_SERVICES_PRICING_FAIL = `${prefix}LOAD_SERVICES_PRICING_FAIL`;
+
+// gift certificates
+export const LOAD_GIFT_CERTIFICATES_REQUEST = `${prefix}LOAD_GIFT_CERTIFICATES_REQUEST`;
+export const LOAD_GIFT_CERTIFICATES_SUCCESS = `${prefix}LOAD_GIFT_CERTIFICATES_SUCCESS`;
+export const LOAD_GIFT_CERTIFICATES_FAIL = `${prefix}LOAD_GIFT_CERTIFICATES_FAIL`;

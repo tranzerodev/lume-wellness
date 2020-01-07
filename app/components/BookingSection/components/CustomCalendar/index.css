@@ -1,0 +1,26 @@
+.customViewCss tbody {
+  display: flex;
+  justify-content: space-around;
+}
+
+.customViewCss tbody tr {
+  display: flex;
+  flex-flow: column;
+  padding-left: 0px!important;
+  padding-right: 0px!important;
+}
+
+.customViewCss thead {
+  display: flex;
+  width: 100%;
+}
+
+.customViewCss thead tr {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.customViewCss thead tr th, .customViewCss tbody tr {
+  min-width: calc(100% / 7);
+}

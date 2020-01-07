@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#364650" stroke-width="2" cx="13" cy="8" r="6"></circle>
+        <path d="M13,39 C19.627417,39 25,33.5400579 25,26.804878 C25,20.0696982 19.627417,14 13,14 C6.372583,14 1,20.0696982 1,26.804878 C1,33.5400579 6.372583,39 13,39 Z" id="Oval" stroke="#364650" stroke-width="2"></path>
+        <path d="M0,26.5 L25,26.5" id="Line-2" stroke="#364650" stroke-width="2" stroke-linecap="square"></path>
+    </g>
+</svg>
