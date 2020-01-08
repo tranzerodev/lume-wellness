@@ -24,6 +24,7 @@ import {
   MyToast,
   NewUserIcon,
   CurrentUserIcon,
+  ListItem,
 } from './styles';
 
 const TopMenu = props => {
@@ -35,8 +36,11 @@ const TopMenu = props => {
           <Brand />
         </Link>
         <TopNav className="justify-content-end">
-          <TopMenuItem MenuItem="Learn" />
-          <TopMenuItem MenuItem="Book" />
+          {/* <TopMenuItem MenuItem="Learn" /> */}
+          {/* <TopMenuItem MenuItem="Book" /> */}
+          <a href="https://lumebooking.as.me/schedule.php" target="_blank">
+            Book
+          </a>
           {/* <TopNavItem to="/coming_soon">
             {identity.user == undefined ? (
               < NewUserIcon src={Unfullfilled } />

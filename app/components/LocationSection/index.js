@@ -4,7 +4,7 @@
  *
  */
 
-import React, {useEffect, useState} from 'react';
+import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { CMS_API_URL } from 'configs';
 
@@ -21,8 +21,8 @@ import {
   TextBlock,
 } from './styles';
 
-function LocationSection({data}){
-  return(
+function LocationSection({ data }) {
+  return (
     <Block>
       <Container>
         <Title> Our Location </Title>
@@ -31,14 +31,12 @@ function LocationSection({data}){
           <Text>
             <TextTitle> LUME WELLNESS RIVER NORTH </TextTitle>
             <TextBlock>
-              <p>
-                {data.address}
-              </p>
+              <p>{data.address}</p>
 
               <p>
-                Phone: {data.contact_number}
+                Phone: (312) 285-2004
                 <br />
-                Email: {data.email}
+                Email: hello@lume-wellness.com
               </p>
 
               <p>
@@ -50,7 +48,8 @@ function LocationSection({data}){
         </Content>
       </Container>
     </Block>
-)};
+  );
+}
 
 LocationSection.propTypes = {};
 
